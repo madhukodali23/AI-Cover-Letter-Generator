@@ -86,4 +86,4 @@ Open `client/index.html` in browser (or use Live Server)
 
 ## 👨‍💻 Author
 
-Your Name
+Madhu Kanth Kodali
